@@ -1,0 +1,31 @@
+{   
+    "name": "shiba-inu-empire",
+    "gecko_listed": "12:34", 
+    "cmc_listed": null, 
+    "bscscan_url": "https://bscscan.com/token/(.*?)" ,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shiba-inu-empire/",
+    "coinmarketcap_url": "https://coinmarketcap.com/currencies/shiba-inu-empire/",
+    "times": {
+        "12:34":{"holders":"2355", "transfers": "2345"},
+        "13:34":{"holders":"2355", "transfers": "2345"},
+        "14:34":{"holders":"2355", "transfers": "2345"},
+        "15:34":{"holders":"2355", "transfers": "2345"}}
+
+},
+{   
+    "ime": "shiba-inu-empire",
+    "coingecko_listed": "12:34", 
+    "coinmarketcap_listed": null, 
+    "bscscan_url": "https://bscscan.com/token/(.*?)" ,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shiba-inu-empire/",
+    "coinmarketcap_url": "https://coinmarketcap.com/currencies/shiba-inu-empire/",
+    "times": {
+        "12:34":{"holders":"2325", "transfers": "7367"},
+        "13:34":{"holders":"2355", "transfers": "7625"},
+        "14:34":{"holders":"2375", "transfers": "7815"},
+        "15:34":{"holders":"2403", "transfers": "8345"},
+        "16:34":{"holders":"2423", "transfers": "8744"},
+        "17:34":{"holders":"2401", "transfers": "9031"},
+        "18:34":{"holders":"2389", "transfers": "9265"}}
+
+}

@@ -1,0 +1,25 @@
+sol-fox
+probably-nothing
+spidey-inu
+shaman-king-inu
+good-fire
+samusky-token
+ethzilla
+farmageddon
+hughug-coin
+unbanked
+aave-interest-bearing-ampl
+
+10:00 11.11: ["sol-fox", "probably-nothing", "spidey-inu", "shaman-king-inu", "good-fire", "samusky-token", "ethzilla", "farmageddon", "hughug-coin", "unbanked", "aave-interest-bearing-ampl"]
+
+listed: ["probably-nothing", "spidey-inu"]
+
+17:00 11. 11: ['sol-fox', 'shaman-king-inu', 'good-fire', 'samusky-token', 'ethzilla', 'farmageddon', 'hughug-coin', 'unbanked', 'aave-interest-bearing-ampl']
+
+listed: ["farmageddon"]
+
+11:40 12.11: ['sol-fox', 'shaman-king-inu', 'good-fire', 'samusky-token', 'ethzilla', 'hughug-coin', 'unbanked', 'aave-interest-bearing-ampl']
+
+/
+
+9:30 13.11: ['sol-fox', 'shaman-king-inu', 'good-fire', 'samusky-token', 'ethzilla', 'hughug-coin', 'unbanked', 'aave-interest-bearing-ampl']
